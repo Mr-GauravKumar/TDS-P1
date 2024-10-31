@@ -1,16 +1,1 @@
 login,full_name,created_at,stargazers_count,watchers_count,language,has_projects,has_wiki,license_name
-marco_hernandez,marco/graphic-design,2022-05-01,15,10,HTML,true,true,MIT
-sofia_bonilla,sofia/data-entry-app,2022-08-15,22,12,JavaScript,false,true,Apache-2.0
-ivan_castillo,ivan/content-creator,2023-01-30,30,15,Python,true,false,GPL-3.0
-ana_garcia,ana/website-redesign,2023-03-05,45,20,CSS,true,true,MIT
-javier_diaz,javier/product-photography,2022-06-20,10,8,Java,false,true,Creative Commons
-carla_fernandez,carla/seo-tools,2023-02-14,5,2,Ruby,true,false,MIT
-nicolas_moreno,nicolas/social-media-scheduler,2023-04-10,18,15,PHP,false,false,Apache-2.0
-alba_vega,alba/marketing-automation,2023-02-28,25,18,JavaScript,true,true,MIT
-benjamin_perez,benjamin/mobile-app,2023-05-20,50,40,Dart,false,false,Apache-2.0
-leticia_martinez,leticia/financial-analysis,2022-11-10,12,5,Ruby,true,true,MIT
-marcos_torres,marcos/blog-platform,2022-09-01,28,15,Python,false,true,GPL-3.0
-natalia_rivera,natalia/real-estate-listings,2023-07-10,9,3,HTML,true,false,Creative Commons
-francisco_ortiz,francisco/it-support-system,2022-05-30,2,1,CSS,true,true,MIT
-carla_silva,carla/curriculum-builder,2022-06-15,6,2,Java,false,true,Apache-2.0
-daniel_carrillo,daniel/public-relations-tool,2023-02-12,4,1,Python,true,false,MIT
