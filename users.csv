@@ -106,217 +106,243 @@ marina_gutierrez,Marina Gutierrez,EDUCATIONAL TECHNOLOGIES,Barcelona,marina@edut
 roberto_ramirez,Roberto Ramirez,MOBILE ENGAGEMENT,Barcelona,roberto@mobileengagement.com,false,"Mobile engagement strategist improving app retention",28,160,75,2020-03-25
 pablo_rios,Pablo Rios,SMART CITIES,Barcelona,pablo@smartcities.com,true,"Urban planner focused on smart city initiatives",42,225,90,2021-12-12
 veronica_martinez,Veronica Martinez,E-COMMERCE SOLUTIONS,Barcelona,veronica@ecommerce.com,false,"E-commerce strategist specializing in sales growth",30,150,50,2022-05-10
-gaurav_kumar,Gaurav Kumar ,Google,Barcelona,,true,"DS and AI enthusiast",25,120,50,2020-01-15
-ram_shree,Ram Kumar,Data Inc.,Barcelona,rama@example.com,false,"Data scientist and developer",50,130,70,2019-11-23
-john_doe,John Doe,OPENAI,Barcelona,john@example.com,true,"AI and ML enthusiast",30,150,60,2019-10-12
-jane_smith,Jane Smith,DATA CORP,Barcelona,,false,"Data scientist specializing in analytics",45,200,80,2018-07-05
-mike_lee,Mike Lee,DEVS UNLIMITED,Barcelona,mike@example.com,true,"Frontend developer and designer",18,120,45,2020-03-22
-alice_jones,Alice Jones,TECH PARTNERS,Barcelona,,false,"Backend engineer with a focus on cloud solutions",55,300,150,2017-11-15
-carla_garcia,Carla Garcia,INNOVATE LTD,Barcelona,carla@example.com,true,"Full-stack developer and open-source advocate",65,180,70,2021-01-10
-john_doe,John Doe,OPENAI,Barcelona,john@example.com,true,"AI and ML enthusiast",30,150,60,2019-10-12
-jane_smith,Jane Smith,DATA CORP,Barcelona,,false,"Data scientist specializing in analytics",45,200,80,2018-07-05
-mike_lee,Mike Lee,DEVS UNLIMITED,Barcelona,mike@example.com,true,"Frontend developer and designer",18,120,45,2020-03-22
-alice_jones,Alice Jones,TECH PARTNERS,Barcelona,,false,"Backend engineer with a focus on cloud solutions",55,300,150,2017-11-15
-carla_garcia,Carla Garcia,INNOVATE LTD,Barcelona,carla@example.com,true,"Full-stack developer and open-source advocate",65,180,70,2021-01-10
-john_doe,John Doe,OPENAI,Barcelona,john@example.com,true,"AI and ML enthusiast",30,150,60,2019-10-12
-jane_smith,Jane Smith,DATA CORP,Barcelona,,false,"Data scientist specializing in analytics",45,200,80,2018-07-05
-mike_lee,Mike Lee,DEVS UNLIMITED,Barcelona,mike@example.com,true,"Frontend developer and designer",18,120,45,2020-03-22
-alice_jones,Alice Jones,TECH PARTNERS,Barcelona,,false,"Backend engineer with a focus on cloud solutions",55,300,150,2017-11-15
-carla_garcia,Carla Garcia,INNOVATE LTD,Barcelona,carla@example.com,true,"Full-stack developer and open-source advocate",65,180,70,2021-01-10
-john_doe,John Doe,OPENAI,Barcelona,john@example.com,true,"AI and ML enthusiast",30,150,60,2019-10-12
-jane_smith,Jane Smith,DATA CORP,Barcelona,,false,"Data scientist specializing in analytics",45,200,80,2018-07-05
-mike_lee,Mike Lee,DEVS UNLIMITED,Barcelona,mike@example.com,true,"Frontend developer and designer",18,120,45,2020-03-22
-alice_jones,Alice Jones,TECH PARTNERS,Barcelona,,false,"Backend engineer with a focus on cloud solutions",55,300,150,2017-11-15
-carla_garcia,Carla Garcia,INNOVATE LTD,Barcelona,carla@example.com,true,"Full-stack developer and open-source advocate",65,180,70,2021-01-10
-john_doe,John Doe,OPENAI,Barcelona,john@example.com,true,"AI and ML enthusiast",30,150,60,2019-10-12
-jane_smith,Jane Smith,DATA CORP,Barcelona,jane.smith@datacorp.com,false,"Data scientist specializing in machine learning",48,210,75,2018-09-05
-mike_lee,Mike Lee,DEVS UNLIMITED,Barcelona,mikelee@devs.com,true,"Frontend developer and UX designer",20,130,50,2020-04-10
-alice_jones,Alice Jones,TECH PARTNERS,Barcelona,alice.jones@techpartners.com,false,"Backend developer focused on API development",57,305,160,2017-12-12
-carla_garcia,Carla Garcia,INNOVATE LTD,Barcelona,carla_garcia@innovate.com,true,"Software engineer passionate about tech",66,190,72,2021-02-15
-john_doe,John Doe,OPENAI,Barcelona,john.doe@openai.com,true,"AI and ML enthusiast",32,160,65,2019-11-20
-jane_smith,Jane Smith,DATA CORP,Barcelona,,false,"Data analyst with experience in big data",49,220,78,2018-10-10
-mike_lee,Mike Lee,DEVS UNLIMITED,Barcelona,mike_lee@devs.com,true,"Creative frontend developer and artist",22,140,55,2020-05-15
-alice_jones,Alice Jones,TECH PARTNERS,Barcelona,,false,"Backend engineer with a focus on scalability",59,310,165,2017-11-25
-carla_garcia,Carla Garcia,INNOVATE LTD,Barcelona,carla.g@innovate.com,true,"Full-stack developer and mentor",68,200,75,2021-03-01
-laura_martinez,Laura Martinez,TECH SOLUTIONS,Barcelona,laura@example.com,true,"Software developer focused on mobile apps",25,150,40,2020-01-15
-roberto_ferrer,Roberto Ferrer,CLOUD EXPERTS,Barcelona,,false,"Cloud architect and DevOps engineer",50,120,35,2019-04-20
-sara_perez,Sara Perez,AI RESEARCH,Barcelona,sara.perez@airesearch.com,true,"AI researcher with a passion for deep learning",35,180,65,2021-02-10
-diego_alonso,Diego Alonso,WEB CREATIONS,Barcelona,,true,"Web developer with a focus on e-commerce solutions",45,200,70,2018-11-05
-patricia_ramos,Patricia Ramos,MOBILE MASTERS,Barcelona,patricia.ramos@mobilemasters.com,false,"Mobile app developer with 5 years of experience",40,210,80,2017-10-15
-pablo_morales,Pablo Morales,DATA ANALYTICS INC.,Barcelona,pablo.morales@dataanalytics.com,true,"Data analyst specializing in user behavior",60,250,90,2021-03-30
-monica_vasquez,Monica Vasquez,OPEN SOURCE COMMUNITY,Barcelona,,true,"Open-source enthusiast and developer",55,220,85,2020-06-12
-jose_garcia,Jose Garcia,DEV GURUS,Barcelona,jose.garcia@devgurus.com,false,"Backend developer with experience in PHP and MySQL",50,170,60,2018-12-25
-cristina_solis,Cristina Solis,CYBER SECURITY TEAM,Barcelona,cristina.s@cybersec.com,true,"Cyber security analyst focused on data protection",30,300,95,2019-08-18
-fernando_rivera,Fernando Rivera,MARKETING TECH,Barcelona,fernando.r@marketingtech.com,false,"Marketing specialist using technology to drive sales",22,130,50,2021-05-20
-victor_nieto,Victor Nieto,CYBERNETICS,Barcelona,victor.n@cybernetics.com,true,"Expert in AI and machine learning applications",40,310,120,2022-02-01
-ana_gomez,Ana Gomez,INNOVATE TECH,Barcelona,ana.gomez@innovatetech.com,false,"Full-stack developer with a love for UI design",28,140,55,2020-11-15
-marcos_carrillo,Marcos Carrillo,DATA SOLUTIONS,Barcelona,marcos@datasolutions.com,true,"Data engineer with expertise in big data technologies",55,280,100,2021-06-28
-isabel_torres,Isabel Torres,SOFTWARE WORLD,Barcelona,isabel.torres@softwareworld.com,true,"Software engineer with a focus on mobile applications",48,175,60,2018-07-17
-david_moreno,David Moreno,TECH FOCUS,Barcelona,,false,"IT consultant with a passion for new technologies",34,160,50,2019-03-30
-cristian_ojeda,Cristian Ojeda,APP DEVELOPMENT,Barcelona,cristian@appdev.com,true,"Mobile app developer specializing in iOS",50,220,70,2021-01-25
-carla_mora,Carla Mora,SMART SOLUTIONS,Barcelona,carla.mora@smarts.com,false,"Software developer focused on innovative solutions",36,135,55,2020-04-10
-jorge_gutierrez,Jorge Gutierrez,WEB INNOVATORS,Barcelona,,true,"Frontend developer with expertise in React and Angular",42,190,80,2019-02-14
-laura_lopez,Laura Lopez,DATA MINERS,Barcelona,laura.lopez@dataminers.com,true,"Data scientist with experience in machine learning",58,265,85,2021-03-05
-martin_suarez,Martin Suarez,CREATIVE CODERS,Barcelona,,false,"Web designer with a passion for UX and UI",29,150,40,2018-05-30
-raul_salazar,Raul Salazar,DEV MASTERS,Barcelona,raul.salazar@devmasters.com,true,"Senior software engineer with a passion for AI",67,350,150,2022-05-12
-marta_herrera,Marta Herrera,WEB EXPERTS,Barcelona,marta.herrera@webexperts.com,false,"Digital marketing strategist specializing in SEO",38,200,80,2020-08-08
-javier_munoz,Javier Munoz,DATABASE INC.,Barcelona,javier.m@databaseinc.com,true,"Database administrator with a focus on SQL",30,175,65,2021-11-20
-sofia_martinez,Sofia Martinez,MOBILE FUSION,Barcelona,,false,"Mobile developer focused on cross-platform applications",27,130,50,2019-07-15
-alfonso_leon,Alfonso Leon,INNOVATIVE APPS,Barcelona,alfonso@innovativeapps.com,true,"App developer with experience in Java and Kotlin",44,260,95,2021-04-05
-elena_crespo,Elena Crespo,CYBER TECH,Barcelona,elena.c@cybertech.com,false,"Cybersecurity analyst dedicated to protecting data",36,185,78,2018-09-30
-cristina_rivero,Cristina Rivero,UI DESIGNS,Barcelona,cristina.r@uidesigns.com,true,"UI/UX designer focused on user experience",40,220,85,2022-03-15
-alonso_paz,Alonso Paz,SYSTEMS ANALYSIS,Barcelona,,false,"Systems analyst with a background in cloud services",55,190,55,2019-01-10
-nuria_fresneda,Nuria Fresneda,INFORMATION TECHNOLOGIES,Barcelona,nuria.f@info-tech.com,true,"IT project manager with extensive experience",32,210,80,2021-07-01
-marcos_riera,Marcos Riera,DIGITAL CREATIONS,Barcelona,marcos.riera@digitalcreations.com,false,"Creative developer focused on interactive websites",26,145,45,2018-06-12
-irene_carranza,Irene Carranza,DATA SCIENCE LAB,Barcelona,irene.carranza@datasciencelab.com,true,"Data scientist working on predictive analytics",50,300,90,2021-12-22
-santiago_villar,Santiago Villar,AGILE SOLUTIONS,Barcelona,santiago@agilesolutions.com,false,"Scrum master and agile coach",28,160,60,2019-10-05
-veronica_cubero,Veronica Cubero,TECH INSIGHTS,Barcelona,veronica@techinsights.com,true,"Tech writer and content strategist",34,180,70,2020-05-18
-antonio_sanz,Antonio Sanz,FINANCIAL TECH,Barcelona,antonio.s@financialtech.com,false,"Fintech developer with experience in blockchain",30,220,75,2022-01-14
-martina_vega,Martina Vega,E-COMMERCE EXPERTS,Barcelona,martina.vega@ecommerce.com,true,"E-commerce consultant with a focus on growth strategies",48,290,110,2021-08-30
-paula_almansa,Paula Almansa,CREATIVE MINDS,Barcelona,paula@creativeminds.com,true,"Creative coder passionate about design and technology",22,140,55,2021-09-15
-alberto_torres,Alberto Torres,TECH INNOVATIONS,Barcelona,alberto.torres@techinnovations.com,false,"Tech consultant specializing in software architecture",45,190,60,2018-10-12
-carmen_morales,Carmen Morales,FINANCIAL SOLUTIONS,Barcelona,carmen@financialsolutions.com,true,"Financial analyst with a tech background",38,180,70,2019-04-20
-felipe_castro,Felipe Castro,DIGITAL MARKETING,Barcelona,felipe@digitalmarketing.com,false,"Digital marketing specialist focusing on social media",33,160,50,2020-02-25
-irene_garcia,Irene Garcia,SOCIAL IMPACT TECH,Barcelona,irene.g@impacttech.com,true,"Tech enthusiast dedicated to social good",30,150,55,2021-11-10
-mateo_rivera,Mateo Rivera,EDUCATIONAL TECH,Barcelona,mateo@edutech.com,false,"EdTech developer creating engaging learning platforms",28,145,65,2020-07-28
-miriam_perez,Miriam Perez,DATA SCIENCE INC.,Barcelona,miriam.p@datascienceinc.com,true,"Data scientist with a focus on data visualization",37,200,80,2021-03-15
-roberto_galvez,Roberto Galvez,HEALTH TECH,Barcelona,roberto@healthtech.com,false,"Health tech developer improving healthcare solutions",29,120,50,2019-08-05
-laura_carrillo,Laura Carrillo,PRODUCT DESIGN,Barcelona,laura.c@productdesign.com,true,"Product designer with a focus on user experience",34,180,70,2022-06-02
-alonso_bernal,Alonso Bernal,SMART TECH,Barcelona,alonso@smarttech.com,false,"IoT developer focusing on smart home technologies",31,160,60,2018-05-15
-silvia_gonzalez,Silvia Gonzalez,TRANSPORTATION TECH,Barcelona,,true,"Transportation tech analyst improving urban mobility",36,230,85,2021-01-20
-oscar_bernal,Oscar Bernal,MOBILE TECH,Barcelona,oscar@mobiletech.com,true,"Mobile application developer for Android and iOS",55,275,95,2021-08-14
-veronica_lopez,Veronica Lopez,ENTERPRISE SOLUTIONS,Barcelona,veronica@enterprise.com,false,"Enterprise software engineer with a focus on solutions",40,190,75,2020-09-09
-ivan_ponce,Ivan Ponce,SECURITY EXPERTS,Barcelona,ivan@securityexperts.com,true,"Cybersecurity consultant with expertise in risk management",50,320,120,2022-03-28
-rebecca_santos,Rebecca Santos,HEALTHCARE ANALYTICS,Barcelona,rebecca@healthcareanalytics.com,false,"Data analyst in the healthcare sector",27,145,50,2019-12-30
-ruben_gonzalez,Ruben Gonzalez,AI CONSULTANTS,Barcelona,ruben.g@aiconsultants.com,true,"AI consultant focused on machine learning strategies",48,350,130,2021-02-01
-valeria_castillo,Valeria Castillo,FRONTEND FOCUS,Barcelona,valeria@frontendfocus.com,false,"Frontend developer with a passion for user interfaces",29,180,70,2019-06-18
-patricia_paredes,Patricia Paredes,MOBILITY SOLUTIONS,Barcelona,patricia@mobilitysolutions.com,true,"Mobility solutions engineer improving urban transport",40,220,85,2022-04-15
-carlos_nieto,Carlos Nieto,WEB APPS AGENCY,Barcelona,carlos@webappsagency.com,true,"Full stack developer creating dynamic web applications",35,200,60,2020-08-24
-camila_moreno,Camila Moreno,DATA STRATEGY,Barcelona,camila@datastrategy.com,false,"Data strategist focusing on big data analytics",38,160,50,2018-11-30
-antonio_huerta,Antonio Huerta,DIGITAL TRANSFORMATION,Barcelona,antonio.huerta@digitaltransformation.com,true,"Expert in digital transformation strategies",45,280,90,2021-07-10
-marta_aguero,Marta Aguero,CLOUD TECH,Barcelona,marta.aguero@cloudtech.com,false,"Cloud solutions architect with a focus on security",37,150,50,2019-05-05
-diego_toribio,Diego Toribio,HEALTH DATA,Barcelona,diego@healthdata.com,true,"Health data analyst specializing in patient outcomes",55,230,80,2022-01-18
-claudia_vicente,Claudia Vicente,FINTECH SOLUTIONS,Barcelona,claudia@fintechsolutions.com,false,"FinTech product manager improving financial services",42,190,60,2020-09-22
-adrian_sanz,Adrian Sanz,VIDEO GAME DEV,Barcelona,adrian@videogamedev.com,true,"Game developer focused on immersive experiences",48,250,95,2021-12-11
-marcos_delgado,Marcos Delgado,CYBER DEFENSE,Barcelona,marcos.d@cyberdefense.com,true,"Cyber defense analyst protecting organizations from threats",35,220,80,2022-05-29
-isabella_carrasco,Isabella Carrasco,OPEN SOURCE SOLUTIONS,Barcelona,isabella@opensource.com,false,"Open source advocate and developer",30,175,55,2018-10-04
-nicolas_castano,Nicolas Castano,LOGISTICS TECH,Barcelona,nicolas@logisticstech.com,true,"Logistics tech developer enhancing supply chain solutions",40,210,85,2021-11-03
-sandra_jimenez,Sandra Jimenez,AI & MACHINE LEARNING,Barcelona,sandra@aimachinelearning.com,false,"ML engineer creating intelligent systems",45,190,70,2020-06-15
-jorge_ricardo,Jorge Ricardo,INFORMATION SECURITY,Barcelona,jorge.ricardo@infosecurity.com,true,"Information security consultant specializing in audits",38,265,90,2022-03-07
-elias_rivas,Elias Rivas,SUSTAINABLE TECH,Barcelona,elias@st.com,true,"Sustainable tech advocate focused on green solutions",25,130,50,2023-01-15
-daniela_maldonado,Daniela Maldonado,CONTENT CREATION,Barcelona,daniela@contentcreation.com,false,"Content creator specializing in video production",32,145,60,2022-02-25
-cristian_vega,Cristian Vega,REMOTE WORK SOLUTIONS,Barcelona,cristian@remotework.com,true,"Remote work specialist improving team collaboration",29,155,70,2021-04-22
-laura_benitez,Laura Benitez,AI RESEARCH LAB,Barcelona,laura@airesearch.com,false,"AI researcher dedicated to advancing machine learning",45,200,80,2020-11-10
-josefina_perez,Josefina Perez,DATA ANALYTICS,Barcelona,josefina@dataanalytics.com,true,"Data analyst focusing on financial metrics",38,180,90,2022-06-18
-luis_sanabria,Luis Sanabria,CYBER RISK SOLUTIONS,Barcelona,luis@cyberrisk.com,false,"Cyber risk analyst focused on threat assessment",40,190,65,2021-09-01
-marina_gutierrez,Marina Gutierrez,EDUCATIONAL TECHNOLOGIES,Barcelona,marina@edutech.com,true,"EdTech specialist enhancing online learning",35,210,80,2022-10-15
-roberto_ramirez,Roberto Ramirez,MOBILE ENGAGEMENT,Barcelona,roberto@mobileengagement.com,false,"Mobile engagement strategist improving app retention",28,160,75,2020-03-25
-pablo_rios,Pablo Rios,SMART CITIES,Barcelona,pablo@smartcities.com,true,"Urban planner focused on smart city initiatives",42,225,90,2021-12-12
-veronica_martinez,Veronica Martinez,E-COMMERCE SOLUTIONS,Barcelona,veronica@ecommerce.com,false,"E-commerce strategist specializing in sales growth",30,150,50,2022-05-10
-gaurav_kumar,Gaurav Kumar ,Google,Barcelona,,true,"DS and AI enthusiast",25,120,50,2020-01-15
-ram_shree,Ram Kumar,Data Inc.,Barcelona,rama@example.com,false,"Data scientist and developer",50,130,70,2019-11-23
-john_doe,John Doe,OPENAI,Barcelona,john@example.com,true,"AI and ML enthusiast",30,150,60,2019-10-12
-jane_smith,Jane Smith,DATA CORP,Barcelona,,false,"Data scientist specializing in analytics",45,200,80,2018-07-05
-mike_lee,Mike Lee,DEVS UNLIMITED,Barcelona,mike@example.com,true,"Frontend developer and designer",18,120,45,2020-03-22
-alice_jones,Alice Jones,TECH PARTNERS,Barcelona,,false,"Backend engineer with a focus on cloud solutions",55,300,150,2017-11-15
-carla_garcia,Carla Garcia,INNOVATE LTD,Barcelona,carla@example.com,true,"Full-stack developer and open-source advocate",65,180,70,2021-01-10
-john_doe,John Doe,OPENAI,Barcelona,john@example.com,true,"AI and ML enthusiast",30,150,60,2019-10-12
-jane_smith,Jane Smith,DATA CORP,Barcelona,,false,"Data scientist specializing in analytics",45,200,80,2018-07-05
-mike_lee,Mike Lee,DEVS UNLIMITED,Barcelona,mike@example.com,true,"Frontend developer and designer",18,120,45,2020-03-22
-alice_jones,Alice Jones,TECH PARTNERS,Barcelona,,false,"Backend engineer with a focus on cloud solutions",55,300,150,2017-11-15
-carla_garcia,Carla Garcia,INNOVATE LTD,Barcelona,carla@example.com,true,"Full-stack developer and open-source advocate",65,180,70,2021-01-10
-john_doe,John Doe,OPENAI,Barcelona,john@example.com,true,"AI and ML enthusiast",30,150,60,2019-10-12
-jane_smith,Jane Smith,DATA CORP,Barcelona,,false,"Data scientist specializing in analytics",45,200,80,2018-07-05
-mike_lee,Mike Lee,DEVS UNLIMITED,Barcelona,mike@example.com,true,"Frontend developer and designer",18,120,45,2020-03-22
-alice_jones,Alice Jones,TECH PARTNERS,Barcelona,,false,"Backend engineer with a focus on cloud solutions",55,300,150,2017-11-15
-carla_garcia,Carla Garcia,INNOVATE LTD,Barcelona,carla@example.com,true,"Full-stack developer and open-source advocate",65,180,70,2021-01-10
-john_doe,John Doe,OPENAI,Barcelona,john@example.com,true,"AI and ML enthusiast",30,150,60,2019-10-12
-jane_smith,Jane Smith,DATA CORP,Barcelona,,false,"Data scientist specializing in analytics",45,200,80,2018-07-05
-mike_lee,Mike Lee,DEVS UNLIMITED,Barcelona,mike@example.com,true,"Frontend developer and designer",18,120,45,2020-03-22
-alice_jones,Alice Jones,TECH PARTNERS,Barcelona,,false,"Backend engineer with a focus on cloud solutions",55,300,150,2017-11-15
-carla_garcia,Carla Garcia,INNOVATE LTD,Barcelona,carla@example.com,true,"Full-stack developer and open-source advocate",65,180,70,2021-01-10
-john_doe,John Doe,OPENAI,Barcelona,john@example.com,true,"AI and ML enthusiast",30,150,60,2019-10-12
-jane_smith,Jane Smith,DATA CORP,Barcelona,jane.smith@datacorp.com,false,"Data scientist specializing in machine learning",48,210,75,2018-09-05
-mike_lee,Mike Lee,DEVS UNLIMITED,Barcelona,mikelee@devs.com,true,"Frontend developer and UX designer",20,130,50,2020-04-10
-alice_jones,Alice Jones,TECH PARTNERS,Barcelona,alice.jones@techpartners.com,false,"Backend developer focused on API development",57,305,160,2017-12-12
-carla_garcia,Carla Garcia,INNOVATE LTD,Barcelona,carla_garcia@innovate.com,true,"Software engineer passionate about tech",66,190,72,2021-02-15
-john_doe,John Doe,OPENAI,Barcelona,john.doe@openai.com,true,"AI and ML enthusiast",32,160,65,2019-11-20
-jane_smith,Jane Smith,DATA CORP,Barcelona,,false,"Data analyst with experience in big data",49,220,78,2018-10-10
-mike_lee,Mike Lee,DEVS UNLIMITED,Barcelona,mike_lee@devs.com,true,"Creative frontend developer and artist",22,140,55,2020-05-15
-alice_jones,Alice Jones,TECH PARTNERS,Barcelona,,false,"Backend engineer with a focus on scalability",59,310,165,2017-11-25
-carla_garcia,Carla Garcia,INNOVATE LTD,Barcelona,carla.g@innovate.com,true,"Full-stack developer and mentor",68,200,75,2021-03-01
-laura_martinez,Laura Martinez,TECH SOLUTIONS,Barcelona,laura@example.com,true,"Software developer focused on mobile apps",25,150,40,2020-01-15
-roberto_ferrer,Roberto Ferrer,CLOUD EXPERTS,Barcelona,,false,"Cloud architect and DevOps engineer",50,120,35,2019-04-20
-sara_perez,Sara Perez,AI RESEARCH,Barcelona,sara.perez@airesearch.com,true,"AI researcher with a passion for deep learning",35,180,65,2021-02-10
-diego_alonso,Diego Alonso,WEB CREATIONS,Barcelona,,true,"Web developer with a focus on e-commerce solutions",45,200,70,2018-11-05
-patricia_ramos,Patricia Ramos,MOBILE MASTERS,Barcelona,patricia.ramos@mobilemasters.com,false,"Mobile app developer with 5 years of experience",40,210,80,2017-10-15
-pablo_morales,Pablo Morales,DATA ANALYTICS INC.,Barcelona,pablo.morales@dataanalytics.com,true,"Data analyst specializing in user behavior",60,250,90,2021-03-30
-monica_vasquez,Monica Vasquez,OPEN SOURCE COMMUNITY,Barcelona,,true,"Open-source enthusiast and developer",55,220,85,2020-06-12
-jose_garcia,Jose Garcia,DEV GURUS,Barcelona,jose.garcia@devgurus.com,false,"Backend developer with experience in PHP and MySQL",50,170,60,2018-12-25
-cristina_solis,Cristina Solis,CYBER SECURITY TEAM,Barcelona,cristina.s@cybersec.com,true,"Cyber security analyst focused on data protection",30,300,95,2019-08-18
-fernando_rivera,Fernando Rivera,MARKETING TECH,Barcelona,fernando.r@marketingtech.com,false,"Marketing specialist using technology to drive sales",22,130,50,2021-05-20
-victor_nieto,Victor Nieto,CYBERNETICS,Barcelona,victor.n@cybernetics.com,true,"Expert in AI and machine learning applications",40,310,120,2022-02-01
-ana_gomez,Ana Gomez,INNOVATE TECH,Barcelona,ana.gomez@innovatetech.com,false,"Full-stack developer with a love for UI design",28,140,55,2020-11-15
-marcos_carrillo,Marcos Carrillo,DATA SOLUTIONS,Barcelona,marcos@datasolutions.com,true,"Data engineer with expertise in big data technologies",55,280,100,2021-06-28
-isabel_torres,Isabel Torres,SOFTWARE WORLD,Barcelona,isabel.torres@softwareworld.com,true,"Software engineer with a focus on mobile applications",48,175,60,2018-07-17
-david_moreno,David Moreno,TECH FOCUS,Barcelona,,false,"IT consultant with a passion for new technologies",34,160,50,2019-03-30
-cristian_ojeda,Cristian Ojeda,APP DEVELOPMENT,Barcelona,cristian@appdev.com,true,"Mobile app developer specializing in iOS",50,220,70,2021-01-25
-carla_mora,Carla Mora,SMART SOLUTIONS,Barcelona,carla.mora@smarts.com,false,"Software developer focused on innovative solutions",36,135,55,2020-04-10
-jorge_gutierrez,Jorge Gutierrez,WEB INNOVATORS,Barcelona,,true,"Frontend developer with expertise in React and Angular",42,190,80,2019-02-14
-laura_lopez,Laura Lopez,DATA MINERS,Barcelona,laura.lopez@dataminers.com,true,"Data scientist with experience in machine learning",58,265,85,2021-03-05
-martin_suarez,Martin Suarez,CREATIVE CODERS,Barcelona,,false,"Web designer with a passion for UX and UI",29,150,40,2018-05-30
-raul_salazar,Raul Salazar,DEV MASTERS,Barcelona,raul.salazar@devmasters.com,true,"Senior software engineer with a passion for AI",67,350,150,2022-05-12
-marta_herrera,Marta Herrera,WEB EXPERTS,Barcelona,marta.herrera@webexperts.com,false,"Digital marketing strategist specializing in SEO",38,200,80,2020-08-08
-javier_munoz,Javier Munoz,DATABASE INC.,Barcelona,javier.m@databaseinc.com,true,"Database administrator with a focus on SQL",30,175,65,2021-11-20
-sofia_martinez,Sofia Martinez,MOBILE FUSION,Barcelona,,false,"Mobile developer focused on cross-platform applications",27,130,50,2019-07-15
-alfonso_leon,Alfonso Leon,INNOVATIVE APPS,Barcelona,alfonso@innovativeapps.com,true,"App developer with experience in Java and Kotlin",44,260,95,2021-04-05
-elena_crespo,Elena Crespo,CYBER TECH,Barcelona,elena.c@cybertech.com,false,"Cybersecurity analyst dedicated to protecting data",36,185,78,2018-09-30
-cristina_rivero,Cristina Rivero,UI DESIGNS,Barcelona,cristina.r@uidesigns.com,true,"UI/UX designer focused on user experience",40,220,85,2022-03-15
-alonso_paz,Alonso Paz,SYSTEMS ANALYSIS,Barcelona,,false,"Systems analyst with a background in cloud services",55,190,55,2019-01-10
-nuria_fresneda,Nuria Fresneda,INFORMATION TECHNOLOGIES,Barcelona,nuria.f@info-tech.com,true,"IT project manager with extensive experience",32,210,80,2021-07-01
-marcos_riera,Marcos Riera,DIGITAL CREATIONS,Barcelona,marcos.riera@digitalcreations.com,false,"Creative developer focused on interactive websites",26,145,45,2018-06-12
-irene_carranza,Irene Carranza,DATA SCIENCE LAB,Barcelona,irene.carranza@datasciencelab.com,true,"Data scientist working on predictive analytics",50,300,90,2021-12-22
-santiago_villar,Santiago Villar,AGILE SOLUTIONS,Barcelona,santiago@agilesolutions.com,false,"Scrum master and agile coach",28,160,60,2019-10-05
-veronica_cubero,Veronica Cubero,TECH INSIGHTS,Barcelona,veronica@techinsights.com,true,"Tech writer and content strategist",34,180,70,2020-05-18
-antonio_sanz,Antonio Sanz,FINANCIAL TECH,Barcelona,antonio.s@financialtech.com,false,"Fintech developer with experience in blockchain",30,220,75,2022-01-14
-martina_vega,Martina Vega,E-COMMERCE EXPERTS,Barcelona,martina.vega@ecommerce.com,true,"E-commerce consultant with a focus on growth strategies",48,290,110,2021-08-30
-paula_almansa,Paula Almansa,CREATIVE MINDS,Barcelona,paula@creativeminds.com,true,"Creative coder passionate about design and technology",22,140,55,2021-09-15
-alberto_torres,Alberto Torres,TECH INNOVATIONS,Barcelona,alberto.torres@techinnovations.com,false,"Tech consultant specializing in software architecture",45,190,60,2018-10-12
-carmen_morales,Carmen Morales,FINANCIAL SOLUTIONS,Barcelona,carmen@financialsolutions.com,true,"Financial analyst with a tech background",38,180,70,2019-04-20
-felipe_castro,Felipe Castro,DIGITAL MARKETING,Barcelona,felipe@digitalmarketing.com,false,"Digital marketing specialist focusing on social media",33,160,50,2020-02-25
-irene_garcia,Irene Garcia,SOCIAL IMPACT TECH,Barcelona,irene.g@impacttech.com,true,"Tech enthusiast dedicated to social good",30,150,55,2021-11-10
-mateo_rivera,Mateo Rivera,EDUCATIONAL TECH,Barcelona,mateo@edutech.com,false,"EdTech developer creating engaging learning platforms",28,145,65,2020-07-28
-miriam_perez,Miriam Perez,DATA SCIENCE INC.,Barcelona,miriam.p@datascienceinc.com,true,"Data scientist with a focus on data visualization",37,200,80,2021-03-15
-roberto_galvez,Roberto Galvez,HEALTH TECH,Barcelona,roberto@healthtech.com,false,"Health tech developer improving healthcare solutions",29,120,50,2019-08-05
-laura_carrillo,Laura Carrillo,PRODUCT DESIGN,Barcelona,laura.c@productdesign.com,true,"Product designer with a focus on user experience",34,180,70,2022-06-02
-alonso_bernal,Alonso Bernal,SMART TECH,Barcelona,alonso@smarttech.com,false,"IoT developer focusing on smart home technologies",31,160,60,2018-05-15
-silvia_gonzalez,Silvia Gonzalez,TRANSPORTATION TECH,Barcelona,,true,"Transportation tech analyst improving urban mobility",36,230,85,2021-01-20
-oscar_bernal,Oscar Bernal,MOBILE TECH,Barcelona,oscar@mobiletech.com,true,"Mobile application developer for Android and iOS",55,275,95,2021-08-14
-veronica_lopez,Veronica Lopez,ENTERPRISE SOLUTIONS,Barcelona,veronica@enterprise.com,false,"Enterprise software engineer with a focus on solutions",40,190,75,2020-09-09
-ivan_ponce,Ivan Ponce,SECURITY EXPERTS,Barcelona,ivan@securityexperts.com,true,"Cybersecurity consultant with expertise in risk management",50,320,120,2022-03-28
-rebecca_santos,Rebecca Santos,HEALTHCARE ANALYTICS,Barcelona,rebecca@healthcareanalytics.com,false,"Data analyst in the healthcare sector",27,145,50,2019-12-30
-ruben_gonzalez,Ruben Gonzalez,AI CONSULTANTS,Barcelona,ruben.g@aiconsultants.com,true,"AI consultant focused on machine learning strategies",48,350,130,2021-02-01
-valeria_castillo,Valeria Castillo,FRONTEND FOCUS,Barcelona,valeria@frontendfocus.com,false,"Frontend developer with a passion for user interfaces",29,180,70,2019-06-18
-patricia_paredes,Patricia Paredes,MOBILITY SOLUTIONS,Barcelona,patricia@mobilitysolutions.com,true,"Mobility solutions engineer improving urban transport",40,220,85,2022-04-15
-carlos_nieto,Carlos Nieto,WEB APPS AGENCY,Barcelona,carlos@webappsagency.com,true,"Full stack developer creating dynamic web applications",35,200,60,2020-08-24
-camila_moreno,Camila Moreno,DATA STRATEGY,Barcelona,camila@datastrategy.com,false,"Data strategist focusing on big data analytics",38,160,50,2018-11-30
-antonio_huerta,Antonio Huerta,DIGITAL TRANSFORMATION,Barcelona,antonio.huerta@digitaltransformation.com,true,"Expert in digital transformation strategies",45,280,90,2021-07-10
-marta_aguero,Marta Aguero,CLOUD TECH,Barcelona,marta.aguero@cloudtech.com,false,"Cloud solutions architect with a focus on security",37,150,50,2019-05-05
-diego_toribio,Diego Toribio,HEALTH DATA,Barcelona,diego@healthdata.com,true,"Health data analyst specializing in patient outcomes",55,230,80,2022-01-18
-claudia_vicente,Claudia Vicente,FINTECH SOLUTIONS,Barcelona,claudia@fintechsolutions.com,false,"FinTech product manager improving financial services",42,190,60,2020-09-22
-adrian_sanz,Adrian Sanz,VIDEO GAME DEV,Barcelona,adrian@videogamedev.com,true,"Game developer focused on immersive experiences",48,250,95,2021-12-11
-marcos_delgado,Marcos Delgado,CYBER DEFENSE,Barcelona,marcos.d@cyberdefense.com,true,"Cyber defense analyst protecting organizations from threats",35,220,80,2022-05-29
-isabella_carrasco,Isabella Carrasco,OPEN SOURCE SOLUTIONS,Barcelona,isabella@opensource.com,false,"Open source advocate and developer",30,175,55,2018-10-04
-nicolas_castano,Nicolas Castano,LOGISTICS TECH,Barcelona,nicolas@logisticstech.com,true,"Logistics tech developer enhancing supply chain solutions",40,210,85,2021-11-03
-sandra_jimenez,Sandra Jimenez,AI & MACHINE LEARNING,Barcelona,sandra@aimachinelearning.com,false,"ML engineer creating intelligent systems",45,190,70,2020-06-15
-jorge_ricardo,Jorge Ricardo,INFORMATION SECURITY,Barcelona,jorge.ricardo@infosecurity.com,true,"Information security consultant specializing in audits",38,265,90,2022-03-07
-elias_rivas,Elias Rivas,SUSTAINABLE TECH,Barcelona,elias@st.com,true,"Sustainable tech advocate focused on green solutions",25,130,50,2023-01-15
-daniela_maldonado,Daniela Maldonado,CONTENT CREATION,Barcelona,daniela@contentcreation.com,false,"Content creator specializing in video production",32,145,60,2022-02-25
-cristian_vega,Cristian Vega,REMOTE WORK SOLUTIONS,Barcelona,cristian@remotework.com,true,"Remote work specialist improving team collaboration",29,155,70,2021-04-22
-laura_benitez,Laura Benitez,AI RESEARCH LAB,Barcelona,laura@airesearch.com,false,"AI researcher dedicated to advancing machine learning",45,200,80,2020-11-10
-josefina_perez,Josefina Perez,DATA ANALYTICS,Barcelona,josefina@dataanalytics.com,true,"Data analyst focusing on financial metrics",38,180,90,2022-06-18
-luis_sanabria,Luis Sanabria,CYBER RISK SOLUTIONS,Barcelona,luis@cyberrisk.com,false,"Cyber risk analyst focused on threat assessment",40,190,65,2021-09-01
-marina_gutierrez,Marina Gutierrez,EDUCATIONAL TECHNOLOGIES,Barcelona,marina@edutech.com,true,"EdTech specialist enhancing online learning",35,210,80,2022-10-15
-roberto_ramirez,Roberto Ramirez,MOBILE ENGAGEMENT,Barcelona,roberto@mobileengagement.com,false,"Mobile engagement strategist improving app retention",28,160,75,2020-03-25
-pablo_rios,Pablo Rios,SMART CITIES,Barcelona,pablo@smartcities.com,true,"Urban planner focused on smart city initiatives",42,225,90,2021-12-12
-veronica_martinez,Veronica Martinez,E-COMMERCE SOLUTIONS,Barcelona,veronica@ecommerce.com,false,"E-commerce strategist specializing in sales growth",30,150,50,2022-05-10
+augusto_bonilla,Augusto Bonilla,SOCIAL NETWORKS INC.,Barcelona,augusto@sni.com,true,"Social media manager enhancing brand presence",40,190,85,2022-08-02
+irma_paredes,Irma Paredes,INNOVATION LAB,Barcelona,irma@innovationlab.com,false,"Innovation strategist specializing in new technologies",36,210,90,2021-03-15
+javier_herrera,Javier Herrera,LOGISTICS NETWORK,Barcelona,javier@logisticsnetwork.com,true,"Logistics expert optimizing supply chains",33,170,75,2021-12-05
+sofia_salgado,Sofia Salgado,DIGITAL ART CREATION,Barcelona,sofia@digitalart.com,false,"Digital artist creating immersive experiences",27,150,60,2020-10-10
+roberto_castro,Roberto Castro,TECH ADVISORS,Barcelona,roberto@techadvisors.com,true,"Tech advisor helping startups grow",45,250,100,2022-06-30
+nuria_baez,Nuria Baez,AGRICULTURE TECH,Barcelona,nuria@agritech.com,false,"AgriTech developer improving farming efficiency",29,135,55,2021-11-11
+diego_pantoja,Diego Pantoja,MEDIA PRODUCTIONS,Barcelona,diego@mediaproductions.com,true,"Media producer focused on engaging storytelling",38,180,65,2022-02-14
+marta_quintero,Marta Quintero,HEALTHCARE IT,Barcelona,marta@healthcareit.com,false,"IT consultant for healthcare solutions",42,200,90,2021-04-25
+fermin_alvarez,Fermin Alvarez,TRAVEL TECH,Barcelona,fermin@traveltech.com,true,"Travel tech developer enhancing user experiences",30,170,70,2022-09-15
+patricia_huerta,Patricia Huerta,SMART ENVIRONMENTS,Barcelona,patricia@smartenv.com,false,"Developer of smart home technologies",35,145,50,2020-07-05
+antonio_mendoza,Antonio Mendoza,DATABASE SOLUTIONS,Barcelona,antonio@dbsolutions.com,true,"Database architect specializing in big data",48,230,85,2022-01-20
+veronica_ayala,Veronica Ayala,E-LEARNING SOLUTIONS,Barcelona,veronica@elearningsolutions.com,false,"E-learning specialist improving educational access",28,155,65,2021-08-11
+santiago_suarez,Santiago Suarez,RETAIL ANALYTICS,Barcelona,santiago@retailanalytics.com,true,"Retail analyst using data for sales strategies",37,190,80,2022-03-05
+martin_dominguez,Martin Dominguez,AUTOMATION EXPERTS,Barcelona,martin@automationexperts.com,false,"Automation consultant improving business processes",39,160,60,2020-06-22
+camila_navarro,Camila Navarro,COMMUNITY BUILDERS,Barcelona,camila@communitybuilders.com,true,"Community manager enhancing online engagement",32,180,75,2022-04-18
+miriam_reyes,Miriam Reyes,AUTOMATED SOLUTIONS,Barcelona,miriam@automatedsolutions.com,true,"Automation engineer creating efficient workflows",50,240,90,2022-02-01
+pablo_ortiz,Pablo Ortiz,HEALTH INNOVATIONS,Barcelona,pablo@healthinnovations.com,false,"Innovator in health technologies",40,180,75,2020-11-15
+valentina_hurtado,Valentina Hurtado,SUSTAINABLE ENERGY,Barcelona,valentina@sustainableenergy.com,true,"Renewable energy consultant driving green initiatives",45,200,80,2022-03-30
+jaime_carrillo,Jaime Carrillo,SPORTS TECH,Barcelona,jaime@sportstech.com,false,"Developer specializing in sports performance technologies",33,150,65,2021-09-01
+julia_salinas,Julia Salinas,FINANCIAL SOLUTIONS,Barcelona,julia@financialsolutions.com,true,"Financial analyst improving investment strategies",28,160,70,2021-12-18
+roberto_garcia,Roberto Garcia,EVENT TECH,Barcelona,roberto@eventtech.com,false,"Event technology consultant creating memorable experiences",35,140,60,2022-05-22
+carmen_palomino,Carmen Palomino,AI FOR GOOD,Barcelona,carmen@aiforgood.com,true,"AI advocate focusing on social impact projects",42,210,90,2021-07-10
+lidia_teran,Lidia Teran,MOBILE SOLUTIONS,Barcelona,lidia@mobilesolutions.com,false,"Mobile app developer enhancing user engagement",36,180,80,2022-08-05
+emilio_jimenez,Emilio Jimenez,TECH CONSULTING GROUP,Barcelona,emilio@techconsulting.com,true,"Tech consultant improving organizational strategies",38,220,75,2022-06-14
+isabella_bonilla,Isabella Bonilla,HR TECH,Barcelona,isabella@hrtech.com,false,"HR tech innovator optimizing recruitment processes",30,175,55,2020-09-30
+renato_morales,Renato Morales,TRANSPORTATION SOLUTIONS,Barcelona,renato@transportationsolutions.com,true,"Transportation analyst enhancing mobility solutions",48,250,85,2022-01-05
+anahi_sierra,Anahi Sierra,SECURITY SYSTEMS,Barcelona,anahi@securitysystems.com,false,"Security systems designer focusing on smart tech",29,165,70,2021-10-21
+oscar_galindo,Oscar Galindo,CLOUD SECURITY,Barcelona,oscar@cloudsecurity.com,true,"Cloud security expert ensuring data safety",35,190,85,2022-04-29
+fabiola_flores,Fabiola Flores,DIGITAL MARKETING,Barcelona,fabiola@digitalmarketing.com,false,"Digital marketing strategist improving brand reach",31,180,60,2020-02-10
+sebastian_sierra,Sebastian Sierra,DATA PRIVACY,Barcelona,sebastian@dataprivacy.com,true,"Data privacy advocate ensuring compliance",39,230,100,2021-03-12
+jose_flores,Jose Flores,CREATIVE AGENCY,Barcelona,jose@creativeagency.com,true,"Creative director focused on innovative campaigns",55,300,120,2021-06-15
+marta_alvarez,Marta Alvarez,FINANCIAL ANALYTICS,Barcelona,marta@financialanalytics.com,false,"Financial analyst using data to drive decisions",48,215,90,2022-01-08
+ivan_perez,Ivan Perez,EDUCATIONAL CONSULTING,Barcelona,ivan@educationalconsulting.com,true,"Education consultant enhancing curriculum design",36,180,85,2021-11-12
+silvia_suarez,Silvia Suarez,TECH INNOVATION,Barcelona,silvia@techinnovation.com,false,"Tech innovator creating cutting-edge solutions",40,170,75,2020-05-22
+luis_ortiz,Luis Ortiz,MOBILITY SOLUTIONS,Barcelona,luis@mobilitysolutions.com,true,"Mobility expert focused on urban transport",45,190,80,2022-02-20
+rebecca_castro,Rebecca Castro,AGRICULTURAL TECHNOLOGY,Barcelona,rebecca@agritechnology.com,false,"Agritech specialist improving crop yields",50,250,110,2022-09-10
+fernando_maldonado,Fernando Maldonado,SOCIAL IMPACT,Barcelona,fernando@socialimpact.com,true,"Social entrepreneur working on community initiatives",39,230,100,2022-04-30
+catalina_bonilla,Catalina Bonilla,DATA SCIENCE LAB,Barcelona,catalina@datasciencelab.com,false,"Data scientist specializing in machine learning",37,200,95,2021-08-03
+santiago_almeida,Santiago Almeida,HEALTHCARE ANALYTICS,Barcelona,santiago@healthcareanalytics.com,true,"Healthcare analyst improving patient outcomes",42,215,115,2022-03-16
+gloria_vasquez,Gloria Vasquez,DIGITAL CONTENT CREATION,Barcelona,gloria@digitalcontent.com,false,"Content creator specializing in visual storytelling",34,165,70,2021-07-19
+angelica_mendez,Angelica Mendez,CYBERSECURITY SOLUTIONS,Barcelona,angelica@cybersecuritysolutions.com,true,"Cybersecurity consultant protecting businesses",38,180,85,2022-11-01
+nicolas_jimenez,Nicolas Jimenez,REAL ESTATE ANALYTICS,Barcelona,nicolas@realestateanalytics.com,false,"Real estate analyst leveraging market data",41,190,90,2021-05-27
+mario_rivera,Mario Rivera,INNOVATIVE MARKETING,Barcelona,mario@innovativemarketing.com,true,"Marketing strategist focusing on digital outreach",46,240,125,2022-10-05
+clara_valencia,Clara Valencia,SMART TECH SOLUTIONS,Barcelona,clara@smarttechsolutions.com,false,"Smart tech developer enhancing daily life",33,160,60,2020-02-18
+federico_gutierrez,Federico Gutierrez,TRANSPORT INNOVATIONS,Barcelona,federico@transportinnovations.com,true,"Transport innovator creating sustainable solutions",44,205,90,2022-07-23
+carla_navarro,Carla Navarro,CREATIVE DESIGN,Barcelona,carla@creativedesign.com,true,"Creative designer enhancing user experiences",52,180,95,2021-06-01
+oscar_gonzalez,Oscar Gonzalez,HEALTHCARE TECH,Barcelona,oscar@healthcaretech.com,false,"Healthcare technology developer improving patient care",43,210,110,2020-08-12
+aurora_moreno,Aurora Moreno,FINANCIAL SOLUTIONS,Barcelona,aurora@financialsolutions.com,true,"Financial advisor helping clients grow wealth",37,195,85,2021-10-05
+leandro_carrillo,Leandro Carrillo,SMART CITIES,Barcelona,leandro@smartcities.com,false,"Smart city planner focusing on sustainable development",39,225,100,2021-04-15
+irma_paredes,Irma Paredes,EDUCATIONAL REFORM,Barcelona,irma@educationalreform.com,true,"Education reform advocate improving teaching methods",45,180,90,2022-03-20
+arturo_herrera,Arturo Herrera,MOBILITY ANALYTICS,Barcelona,arturo@mobilityanalytics.com,false,"Mobility analyst optimizing urban transportation",31,160,70,2021-07-30
+valeria_castillo,Valeria Castillo,DIGITAL STRATEGY,Barcelona,valeria@digitalstrategy.com,true,"Digital strategist enhancing brand engagement",46,250,125,2022-09-11
+francisco_martin,Francisco Martin,DATA ANALYTICS,Barcelona,francisco@dataanalytics.com,false,"Data analyst specializing in business intelligence",42,220,95,2022-01-15
+sofia_sandoval,Sofia Sandoval,MARKETING TECH,Barcelona,sofia@marketingtech.com,true,"Marketing technologist driving digital campaigns",40,190,80,2021-12-01
+raul_gutierrez,Raul Gutierrez,SUSTAINABILITY CONSULTANT,Barcelona,raul@sustainabilityconsultant.com,false,"Sustainability consultant focused on green initiatives",38,170,65,2020-06-18
+paola_fierro,Paola Fierro,AI RESEARCH,Barcelona,paola@airesearch.com,true,"AI researcher innovating in machine learning",36,185,90,2022-08-02
+fabiola_perez,Fabiola Perez,CYBERSECURITY ADVISOR,Barcelona,fabiola@cyberadvisor.com,false,"Cybersecurity advisor enhancing data protection",44,200,100,2021-03-10
+lucas_silva,Lucas Silva,TECH STARTUP,Barcelona,lucas@techstartup.com,true,"Entrepreneur in tech startup ecosystem",48,210,110,2022-02-07
+miriam_ortiz,Miriam Ortiz,DIGITAL CONTENT STRATEGY,Barcelona,miriam@digitalcontentstrategy.com,false,"Content strategist improving online presence",30,160,75,2020-11-29
+cristina_rivera,Cristina Rivera,GLOBAL HEALTH,Barcelona,cristina@globalhealth.com,true,"Global health advocate focused on community wellness",45,225,130,2021-09-04
+laura_ferrer,Laura Ferrer,DIGITAL INNOVATION,Barcelona,laura@digitalinnovation.com,true,"Innovator in digital transformation and strategy",62,310,145,2021-01-15
+david_cabrera,David Cabrera,HEALTHCARE CONSULTING,Barcelona,david@healthcareconsulting.com,false,"Consultant improving healthcare delivery systems",54,230,110,2022-05-12
+isabel_vega,Isabel Vega,FINANCIAL SERVICES,Barcelona,isabel@financialservices.com,true,"Expert in financial services and wealth management",49,220,115,2022-02-20
+alfonso_benitez,Alfonso Benitez,AI SOLUTIONS,Barcelona,alfonso@aisolutions.com,false,"AI solutions architect focused on intelligent automation",47,240,120,2021-08-25
+renata_valdes,Renata Valdes,MARKETING RESEARCH,Barcelona,renata@marketingresearch.com,true,"Market researcher analyzing consumer trends",51,200,100,2020-11-30
+roberto_carrasco,Roberto Carrasco,SUSTAINABLE ENERGY,Barcelona,roberto@sustainableenergy.com,false,"Sustainable energy advocate promoting green solutions",44,190,85,2022-03-14
+marina_lopez,Marina Lopez,CYBERSECURITY,Barcelona,marina@cybersecurity.com,true,"Cybersecurity analyst specializing in threat detection",38,180,70,2021-10-19
+gonzalo_perez,Gonzalo Perez,EDUCATION TECHNOLOGY,Barcelona,gonzalo@edutech.com,false,"EdTech entrepreneur enhancing learning experiences",40,210,95,2021-06-05
+cristina_ortega,Cristina Ortega,CREATIVE SOLUTIONS,Barcelona,cristina@creativesolutions.com,true,"Creative solutions provider for business challenges",39,175,80,2022-09-29
+pablo_suarez,Pablo Suarez,DIGITAL MARKETING,Barcelona,pablo@digitalmarketing.com,false,"Digital marketer specializing in SEO and content strategy",35,190,85,2020-02-22
+sandra_rivera,Sandra Rivera,REAL ESTATE DEVELOPMENT,Barcelona,sandra@realestatedevelopment.com,true,"Real estate developer focusing on urban projects",42,230,110,2022-08-03
+ricardo_hernandez,Ricardo Hernandez,SOCIAL IMPACT,Barcelona,ricardo@socialimpact.com,false,"Social impact strategist enhancing community initiatives",33,180,75,2020-03-11
+alicia_martinez,Alicia Martinez,IT CONSULTING,Barcelona,alicia@itconsulting.com,true,"IT consultant improving business technology",50,205,90,2021-12-14
+fernando_lopez,Fernando Lopez,GLOBAL HEALTH INITIATIVES,Barcelona,fernando@globalhealthinitiatives.com,false,"Global health initiative leader working for access equity",45,210,105,2022-04-26
+olga_simon,Olga Simon,MARKETING ANALYSIS,Barcelona,olga@marketinganalysis.com,true,"Marketing analyst specializing in data-driven insights",37,185,80,2021-11-09
+marco_garcia,Marco Garcia,DIGITAL MARKETING AGENCY,Barcelona,marco@digitalmarketingagency.com,true,"Digital marketing expert with a passion for growth",58,320,140,2022-05-05
+natalia_soto,Natalia Soto,FINANCIAL TECH,Barcelona,natalia@financialtech.com,false,"FinTech entrepreneur streamlining banking processes",46,210,115,2021-07-13
+lucas_mora,Lukas Mora,EDUCATION INNOVATIONS,Barcelona,lucas@educationinnovations.com,true,"Innovative educator improving teaching techniques",52,250,125,2022-10-10
+sara_martin,Sara Martin,REAL ESTATE ANALYSIS,Barcelona,sara@realestateanalysis.com,false,"Analyst focusing on real estate market trends",40,205,100,2021-04-22
+elena_benitez,Elena Benitez,HEALTHCARE SOLUTIONS,Barcelona,elena@healthcaresolutions.com,true,"Healthcare professional enhancing patient care",37,180,90,2020-11-01
+roberto_rios,Roberto Rios,TECH STARTUPS,Barcelona,roberto@techstartups.com,false,"Advisor for tech startups aiming for success",43,190,85,2022-08-18
+susana_ortiz,Susana Ortiz,SOCIAL MEDIA CONSULTANT,Barcelona,susana@socialmediaconsultant.com,true,"Expert in social media strategies for businesses",39,210,95,2021-12-21
+gonzalo_torres,Gonzalo Torres,CREATIVE CONSULTING,Barcelona,gonzalo@creativeconsulting.com,false,"Creative consultant working with diverse clients",44,220,115,2022-01-09
+ana_carrillo,Ana Carrillo,SUSTAINABLE DEVELOPMENT,Barcelona,ana@sustainabledevelopment.com,true,"Sustainability advocate focused on eco-friendly solutions",36,185,75,2021-09-14
+javier_castro,Javier Castro,TECHNICAL WRITER,Barcelona,javier@technicalwriter.com,false,"Technical writer simplifying complex concepts",38,200,85,2021-10-29
+carolina_espinosa,Carolina Espinosa,MARKETING ANALYST,Barcelona,carolina@marketinganalyst.com,true,"Marketing analyst leveraging data for insights",41,230,130,2022-03-27
+victor_sandoval,Victor Sandoval,DATA SCIENCE CONSULTING,Barcelona,victor@datascienceconsulting.com,false,"Consultant using data science for business solutions",35,160,70,2022-07-16
+mariana_ramos,Mariana Ramos,HEALTHCARE MARKETING,Barcelona,mariana@healthcaremarketing.com,true,"Healthcare marketing professional enhancing outreach",47,250,120,2021-05-03
+diego_martinez,Diego Martinez,GLOBAL HEALTH POLICY,Barcelona,diego@globalhealthpolicy.com,false,"Policy analyst focusing on global health issues",49,190,90,2022-06-11
+veronica_molina,Veronica Molina,EDUCATIONAL CONTENT CREATOR,Barcelona,veronica@educationalcontent.com,true,"Content creator focused on educational resources",40,205,95,2021-08-07
+claudia_fernandez,Claudia Fernandez,SOFTWARE DEVELOPMENT,Barcelona,claudia@softwaredevelopment.com,true,"Software developer specializing in web applications",53,310,145,2021-02-17
+marcos_lopez,Marcos Lopez,ENVIRONMENTAL CONSULTING,Barcelona,marcos@environmentalconsulting.com,false,"Consultant focusing on sustainable environmental practices",48,220,115,2022-03-22
+irene_valencia,Irene Valencia,PRODUCT MANAGEMENT,Barcelona,irene@productmanagement.com,true,"Product manager enhancing user experience and engagement",45,250,130,2022-09-05
+ernesto_salazar,Ernesto Salazar,CYBERSECURITY EXPERT,Barcelona,ernesto@cybersecurity.com,false,"Cybersecurity expert protecting sensitive data",38,190,95,2021-01-30
+carla_reyes,Carla Reyes,AI ENGINEERING,Barcelona,carla@aiengineering.com,true,"AI engineer developing intelligent solutions",40,200,100,2022-04-11
+ruben_castillo,Ruben Castillo,MARKETING STRATEGY,Barcelona,ruben@marketingstrategy.com,false,"Marketing strategist driving brand growth",39,185,80,2020-10-24
+patricia_garcia,Patricia Garcia,HEALTHCARE MANAGEMENT,Barcelona,patricia@healthcaremanagement.com,true,"Healthcare manager improving operational efficiency",41,230,120,2021-07-08
+jose_gutierrez,Jose Gutierrez,SOCIAL ENTREPRENEUR,Barcelona,jose@socialentrepreneur.com,false,"Social entrepreneur creating positive change",34,175,70,2022-02-16
+carmen_diaz,Carmen Diaz,DIGITAL DESIGN,Barcelona,carmen@digitaldesign.com,true,"Digital designer crafting engaging visuals",42,210,110,2021-11-09
+oscar_sanchez,Oscar Sanchez,E-COMMERCE STRATEGIST,Barcelona,oscar@ecommerce.com,false,"E-commerce strategist optimizing online sales",37,220,105,2022-06-30
+silvia_alonso,Silvia Alonso,DATA ANALYST,Barcelona,silvia@dataanalyst.com,true,"Data analyst providing actionable insights",39,195,90,2021-03-13
+alberto_moreno,Alberto Moreno,FINANCIAL ANALYST,Barcelona,alberto@financialanalyst.com,false,"Financial analyst supporting investment decisions",45,200,85,2020-12-04
+julia_carrasco,Julia Carrasco,CONTENT MARKETING,Barcelona,julia@contentmarketing.com,true,"Content marketer enhancing brand visibility",38,210,95,2022-05-20
+jorge_mendoza,Jorge Mendoza,TECHNICAL SUPPORT,Barcelona,jorge@technicalsupport.com,false,"Technical support specialist improving customer experience",33,165,75,2021-09-27
+sofia_juarez,Sofia Juarez,INFORMATION TECHNOLOGY,Barcelona,sofia@informationtechnology.com,true,"IT specialist enhancing technological solutions",40,230,115,2022-08-15
+antonio_rivas,Antonio Rivas,TECHNOLOGY CONSULTING,Barcelona,antonio@technologyconsulting.com,true,"Technology consultant with a focus on innovation",44,320,140,2022-02-22
+mariana_perez,Mariana Perez,NONPROFIT MANAGEMENT,Barcelona,mariana@nonprofitmanagement.com,false,"Nonprofit manager enhancing community programs",50,215,110,2021-01-15
+david_navarro,David Navarro,VIDEO GAME DEVELOPMENT,Barcelona,david@videogamedevelopment.com,true,"Game developer creating engaging experiences",41,210,100,2021-11-05
+elena_martinez,Elena Martinez,FOOD TECH,Barcelona,elena@foodtech.com,false,"Food technology innovator improving nutrition",39,230,120,2020-10-30
+jose_antonio_moreno,Jose Antonio Moreno,USER EXPERIENCE DESIGN,Barcelona,joseantonio@uxdesign.com,true,"UX designer focusing on user-centered design",38,190,90,2022-06-15
+marco_beltran,Marco Beltran,INFORMATION SECURITY,Barcelona,marco@informationsecurity.com,false,"Information security analyst protecting data",45,205,95,2022-07-08
+carmen_vega,Carmen Vega,TRANSPORTATION SERVICES,Barcelona,carmen@transportationservices.com,true,"Transportation service provider enhancing logistics",42,220,110,2021-12-18
+arturo_rivera,Arturo Rivera,PRODUCT DESIGN,Barcelona,arturo@productdesign.com,false,"Product designer creating innovative solutions",37,180,80,2021-03-02
+susana_gonzalez,Susana Gonzalez,BUSINESS DEVELOPMENT,Barcelona,susana@businessdevelopment.com,true,"Business developer driving strategic partnerships",36,195,85,2022-01-28
+javier_sierra,Javier Sierra,SYSTEMS ANALYST,Barcelona,javier@systmesanalyst.com,false,"Systems analyst improving IT infrastructure",43,205,100,2021-10-16
+angela_angulo,Angela Angulo,MARKETING AUTOMATION,Barcelona,angela@marketingautomation.com,true,"Marketing automation expert enhancing campaign performance",40,210,95,2022-04-30
+fernando_morales,Fernando Morales,DATA SCIENCE,Barcelona,fernando@datascience.com,false,"Data scientist providing predictive analytics",48,230,120,2021-09-12
+luisa_martin,Luisa Martin,CREATIVE WRITING,Barcelona,luisa@creativewriting.com,true,"Creative writer specializing in content creation",34,180,70,2022-03-05
+carlos_lara,Carlos Lara,COMMUNITY ENGAGEMENT,Barcelona,carlos@communityengagement.com,false,"Community engagement coordinator enhancing outreach",39,190,85,2022-02-19
+sofia_castaneda,Sofia Castañeda,FINANCIAL ADVISORY,Barcelona,sofia@financialadvisory.com,true,"Financial advisor focusing on client success",42,220,115,2021-08-27
+teresa_martinez,Teresa Martinez,WEB DEVELOPMENT,Barcelona,teresa@webdevelopment.com,true,"Web developer creating responsive websites",46,310,150,2022-02-12
+jesus_garcia,Jesus Garcia,EVENT PLANNING,Barcelona,jesus@eventplanning.com,false,"Event planner specializing in corporate events",41,200,110,2021-03-09
+marta_sanchez,Marta Sanchez,MOBILE APP DEVELOPMENT,Barcelona,marta@mobileappdev.com,true,"Mobile app developer focused on user engagement",38,250,120,2021-12-01
+alonso_torres,Alonso Torres,CYBERSECURITY CONSULTANT,Barcelona,alonso@cybersecurity.com,false,"Cybersecurity consultant protecting digital assets",43,220,130,2022-05-30
+gloria_perez,Gloria Perez,DATA ANALYST,Barcelona,gloria@dataanalyst.com,true,"Data analyst driving business insights",39,210,105,2021-08-22
+ivan_martinez,Ivan Martinez,CONTENT CREATION,Barcelona,ivan@contentcreation.com,false,"Content creator specializing in video production",36,190,85,2022-04-16
+noelia_campillo,Noelia Campillo,HR CONSULTING,Barcelona,noelia@hrconsulting.com,true,"HR consultant enhancing talent management",42,240,115,2021-09-17
+felipe_rivera,Felipe Rivera,GRAPHIC DESIGN,Barcelona,felipe@graphicdesign.com,false,"Graphic designer creating visual identities",45,200,100,2022-01-05
+lola_gonzalez,Lola Gonzalez,REAL ESTATE INVESTMENT,Barcelona,lola@realestateinvest.com,true,"Real estate investor focusing on sustainable properties",38,220,130,2021-06-11
+pedro_benitez,Pedro Benitez,E-COMMERCE SOLUTIONS,Barcelona,pedro@ecommercesolutions.com,false,"E-commerce solutions provider for businesses",40,230,110,2022-08-14
+laura_moreno,Laura Moreno,DIGITAL MARKETING,Barcelona,laura@digitalmarketing.com,true,"Digital marketer enhancing online presence",41,215,115,2021-02-19
+roberto_santiago,Roberto Santiago,INTERNATIONAL TRADE,Barcelona,roberto@internationaltrade.com,false,"International trade consultant facilitating imports/exports",37,180,90,2022-07-22
+veronica_oliva,Veronica Oliva,RESEARCH ANALYST,Barcelona,veronica@researchanalyst.com,true,"Research analyst providing market insights",35,200,95,2021-11-03
+samuel_blasco,Samuel Blasco,BUSINESS STRATEGY,Barcelona,samuel@businessstrategy.com,false,"Business strategist optimizing operations",39,190,85,2022-06-05
+marisol_ferrer,Marisol Ferrer,EVENT MARKETING,Barcelona,marisol@eventmarketing.com,true,"Event marketer specializing in brand promotion",42,225,125,2021-10-26
+jose_luis_ferrer,Jose Luis Ferrer,TELECOMMUNICATIONS,Barcelona,joseluis@telecommunications.com,true,"Telecommunications expert enhancing connectivity",48,350,160,2022-03-10
+patricia_rios,Patricia Rios,FASHION DESIGN,Barcelona,patricia@fashiondesign.com,false,"Fashion designer specializing in sustainable fashion",41,210,110,2021-05-17
+ramon_perez,Ramon Perez,SOFTWARE ENGINEERING,Barcelona,ramon@softwareengineering.com,true,"Software engineer developing enterprise solutions",39,280,135,2021-11-20
+carmen_lopez,Carmen Lopez,VIDEO PRODUCTION,Barcelona,carmen@videoproduction.com,false,"Video producer creating engaging content",36,200,100,2020-12-25
+alfonso_castro,Alfonso Castro,SOCIAL MEDIA MANAGEMENT,Barcelona,alfonso@socialmediamgmt.com,true,"Social media manager boosting brand presence",43,220,125,2022-01-08
+marcelo_fuentes,Marcelo Fuentes,ARCHITECTURE,Barcelona,marcelo@architecture.com,false,"Architect focusing on sustainable designs",44,230,130,2021-09-13
+laura_benitez,Laura Benitez,FINANCIAL PLANNING,Barcelona,laura@financialplanning.com,true,"Financial planner helping clients achieve goals",38,250,115,2022-04-19
+francisco_salinas,Francisco Salinas,MOBILE GAME DEVELOPMENT,Barcelona,francisco@mobilegamedev.com,false,"Mobile game developer creating fun experiences",40,220,105,2021-07-29
+rebecca_castro,Rebecca Castro,RESEARCH SCIENCE,Barcelona,rebecca@researchscience.com,true,"Research scientist innovating in biotechnology",42,300,145,2021-10-04
+miriam_ferrer,Miriam Ferrer,USER EXPERIENCE RESEARCH,Barcelona,miriam@userexperienceresearch.com,false,"UX researcher improving product usability",39,180,90,2022-06-23
+sergio_villanueva,Sergio Villanueva,MARKET RESEARCH,Barcelona,sergio@marketresearch.com,true,"Market researcher providing insights for growth",36,205,95,2021-08-15
+nuria_campbell,Nuria Campbell,EVENT MANAGEMENT,Barcelona,nuria@eventmanagement.com,false,"Event manager coordinating corporate events",45,215,100,2022-02-11
+javier_rivera,Javier Rivera,HEALTH TECHNOLOGY,Barcelona,javier@healthtechnology.com,true,"Health tech consultant enhancing patient care",38,230,120,2021-12-07
+monica_diaz,Monica Diaz,EDUCATIONAL TECHNOLOGY,Barcelona,monica@educationaltechnology.com,false,"EdTech specialist improving learning experiences",41,210,110,2020-11-30
+victor_moreno,Victor Moreno,REAL ESTATE DEVELOPMENT,Barcelona,victor@realestatedevelopment.com,true,"Real estate developer focusing on urban projects",39,250,130,2022-05-26
+alba_soler,Alba Soler,ARTIFICIAL INTELLIGENCE,Barcelona,alba@ai.com,true,"AI researcher specializing in machine learning",47,310,155,2022-03-15
+ignacio_reyes,Ignacio Reyes,INFLUENCER MARKETING,Barcelona,ignacio@influencermarketing.com,false,"Influencer marketing specialist building brand awareness",39,220,120,2021-05-22
+ines_gonzalez,Ines Gonzalez,TRANSPORTATION ENGINEERING,Barcelona,ines@transportationengineering.com,true,"Transportation engineer optimizing urban mobility",38,260,135,2021-08-10
+pablo_morales,Pablo Morales,REAL ESTATE CONSULTING,Barcelona,pablo@realestateconsulting.com,false,"Real estate consultant aiding property investments",44,280,145,2022-01-12
+laura_castillo,Laura Castillo,FOOD & BEVERAGE CONSULTANT,Barcelona,laura@foodconsultant.com,true,"Food and beverage consultant enhancing restaurant menus",37,200,100,2022-04-07
+enrique_martin,Enrique Martin,DEEP LEARNING,Barcelona,enrique@deeplearning.com,false,"Deep learning engineer creating advanced AI models",36,210,115,2021-09-01
+vanessa_ramos,Vanessa Ramos,CYBERSECURITY ANALYST,Barcelona,vanessa@cybersecurity.com,true,"Cybersecurity analyst protecting sensitive data",42,250,130,2021-06-29
+josefina_suarez,Josefina Suarez,SOCIAL WORK,Barcelona,josefina@socialwork.com,false,"Social worker focusing on community outreach",39,215,105,2022-05-14
+oscar_perez,Oscar Perez,FINTECH,Barcelona,oscar@fintech.com,true,"Fintech expert revolutionizing payment systems",41,275,145,2021-10-08
+anita_rivera,Anita Rivera,CONTENT MARKETING,Barcelona,anita@contentmarketing.com,false,"Content marketer enhancing online engagement",36,200,95,2022-02-03
+ivan_blasquez,Ivan Blasquez,NETWORK ADMINISTRATION,Barcelona,ivan@networkadmin.com,true,"Network administrator ensuring secure connections",45,230,120,2022-07-21
+lucia_sanmartin,Lucia Sanmartin,NONPROFIT STRATEGY,Barcelona,lucia@nonprofitstrategy.com,false,"Nonprofit strategist enhancing organizational impact",40,210,100,2021-03-15
+gustavo_lopez,Gustavo Lopez,HEALTHCARE CONSULTING,Barcelona,gustavo@healthcareconsulting.com,true,"Healthcare consultant improving patient outcomes",39,250,135,2021-08-30
+teresa_hidalgo,Teresa Hidalgo,DATA ENGINEERING,Barcelona,teresa@dataengineering.com,false,"Data engineer building data pipelines",38,190,85,2022-01-25
+santiago_herrera,Santiago Herrera,MARKETING STRATEGY,Barcelona,santiago@marketingstrategy.com,true,"Marketing strategist crafting effective campaigns",44,220,110,2022-03-18
+amparo_mendez,Amparo Mendez,ECOMMERCE STRATEGY,Barcelona,amparo@ecommerce.com,true,"E-commerce strategist helping brands grow online",37,210,115,2022-09-10
+ricardo_ortiz,Ricardo Ortiz,EVENT TECHNOLOGY,Barcelona,ricardo@eventtechnology.com,false,"Event technology specialist enhancing virtual experiences",45,320,150,2021-07-15
+martina_rivas,Martina Rivas,LANGUAGE INSTRUCTION,Barcelona,martina@languageinstruction.com,true,"Language instructor specializing in immersive learning",38,180,90,2021-12-05
+oscar_vega,Oscar Vega,SOFTWARE TESTING,Barcelona,oscar@softwaretesting.com,false,"Software tester ensuring quality assurance",40,200,100,2022-03-28
+ines_nieto,Ines Nieto,CULTURAL MANAGEMENT,Barcelona,ines@culturalmanagement.com,true,"Cultural manager promoting arts and heritage",44,250,135,2021-05-20
+sergio_flores,Sergio Flores,TEACHER TRAINING,Barcelona,sergio@teachertraining.com,false,"Teacher trainer focusing on innovative methods",39,215,110,2022-01-30
+miriam_fdez,Miriam Fdez,DATA PRIVACY,Barcelona,miriam@dataprivacy.com,true,"Data privacy consultant protecting client information",36,240,120,2022-08-19
+jesus_reyes,Jesus Reyes,CYBERSECURITY TRAINING,Barcelona,jesus@cybersecuritytraining.com,false,"Cybersecurity trainer educating professionals",42,230,115,2021-06-11
+cristina_bautista,Cristina Bautista,ADVERTISING STRATEGY,Barcelona,cristina@advertisingstrategy.com,true,"Advertising strategist driving brand campaigns",38,260,140,2021-10-22
+joseph_martin,Joseph Martin,COMPUTER VISION,Barcelona,joseph@computervision.com,false,"Computer vision engineer developing AI applications",41,275,130,2022-04-12
+patricia_ramirez,Patricia Ramirez,SOCIAL ENTREPRENEURSHIP,Barcelona,patricia@socialentrepreneurship.com,true,"Social entrepreneur creating sustainable solutions",40,210,95,2021-08-07
+luis_galvan,Luis Galvan,USER INTERFACE DESIGN,Barcelona,luis@userinterfacedesign.com,false,"UI designer crafting user-friendly interfaces",45,190,80,2021-03-01
+julia_huerta,Julia Huerta,MEDICAL RESEARCH,Barcelona,julia@medicalresearch.com,true,"Medical researcher advancing healthcare solutions",39,300,150,2022-07-25
+raquel_duran,Raquel Duran,FINANCIAL TECHNOLOGY,Barcelona,raquel@fintech.com,false,"FinTech consultant optimizing financial systems",36,220,100,2021-09-30
+ivan_sierra,Ivan Sierra,HEALTHCARE MARKETING,Barcelona,ivan@healthcaremarketing.com,true,"Healthcare marketer improving patient outreach",44,210,110,2022-06-17
+alejandro_navarro,Alejandro Navarro,DIGITAL MARKETING,Barcelona,alejandro@digitalmarketing.com,true,"Digital marketing expert helping brands grow online",36,290,140,2022-02-15
+marta_caballero,Marta Caballero,EDUCATIONAL RESEARCH,Barcelona,marta@educationalresearch.com,false,"Educational researcher enhancing learning methodologies",40,210,100,2021-11-22
+samuel_ferreras,Samuel Ferreras,ELECTRONICS ENGINEERING,Barcelona,samuel@electronicsengineering.com,true,"Electronics engineer developing innovative devices",43,310,155,2021-07-17
+lucas_terrazas,Lucas Terrazas,REAL ESTATE ANALYSIS,Barcelona,lucas@realestateanalysis.com,false,"Real estate analyst providing market insights",38,220,115,2022-05-09
+nuria_gonzalez,Nuria Gonzalez,PRODUCT MANAGEMENT,Barcelona,nuria@productmanagement.com,true,"Product manager streamlining development processes",39,250,120,2021-04-12
+emilio_ponce,Emilio Ponce,CYBERSECURITY CONSULTANT,Barcelona,emilio@cybersecurity.com,false,"Cybersecurity consultant safeguarding digital assets",45,240,130,2022-03-26
+silvia_martinez,Silvia Martinez,HEALTHCARE INNOVATION,Barcelona,silvia@healthcareinnovation.com,true,"Healthcare innovator enhancing patient experiences",41,300,145,2021-09-30
+rafael_lozano,Rafael Lozano,AGRICULTURAL SCIENCE,Barcelona,rafael@agriculturalscience.com,false,"Agricultural scientist promoting sustainable practices",38,215,110,2022-06-15
+marina_silva,Marina Silva,CONTENT CREATION,Barcelona,marina@contentcreation.com,true,"Content creator specializing in video production",42,260,135,2021-10-01
+pablo_ortega,Pablo Ortega,DATA SCIENCE,Barcelona,pablo@datascience.com,false,"Data scientist analyzing big data for insights",39,190,95,2022-01-19
+maria_rodriguez,Maria Rodriguez,SUSTAINABLE ARCHITECTURE,Barcelona,maria@sustainablearchitecture.com,true,"Architect focusing on eco-friendly building designs",40,230,120,2021-12-08
+jose_aquino,Jose Aquino,TRANSLATION SERVICES,Barcelona,jose@translationservices.com,false,"Translation services expert bridging language gaps",44,210,100,2022-07-29
+carla_suarez,Carla Suarez,MARKETING AUTOMATION,Barcelona,carla@marketingautomation.com,true,"Marketing automation specialist improving efficiency",38,275,145,2021-05-02
+cristian_diaz,Cristian Diaz,APP DEVELOPMENT,Barcelona,cristian@appdevelopment.com,false,"App developer creating user-centric applications",36,200,110,2021-11-14
+marta_navarro,Marta Navarro,SOCIAL WORK,Barcelona,marta@sowork.com,true,"Social worker dedicated to community support",39,280,130,2022-08-11
+jorge_paredes,Jorge Paredes,MOBILE APP DEVELOPMENT,Barcelona,jorge@mobileappdev.com,true,"Mobile app developer focused on user experience",38,245,130,2022-03-21
+elena_benitez,Elena Benitez,BIOMEDICAL ENGINEERING,Barcelona,elena@biomedical.com,false,"Biomedical engineer innovating medical devices",41,225,120,2021-05-16
+francisco_martin,Francisco Martin,ARTIFICIAL INTELLIGENCE CONSULTANT,Barcelona,francisco@aiconsulting.com,true,"AI consultant providing insights for businesses",36,310,145,2022-08-05
+isabel_garcia,Isabel Garcia,E-COMMERCE SOLUTIONS,Barcelona,isabel@ecommercesolutions.com,false,"E-commerce solutions architect enhancing online sales",39,200,100,2021-10-12
+natalia_perez,Natalia Perez,UX/UI DESIGN,Barcelona,natalia@uxdesign.com,true,"UX/UI designer creating intuitive interfaces",43,275,140,2021-09-22
+jaime_solis,Jaime Solis,DATA ANALYSIS,Barcelona,jaime@dataanalysis.com,false,"Data analyst turning data into actionable insights",40,180,95,2022-01-28
+mario_reyes,Mario Reyes,CONTENT STRATEGY,Barcelona,mario@contentstrategy.com,true,"Content strategist enhancing brand storytelling",42,250,125,2021-06-18
+veronica_fernandez,Veronica Fernandez,HR CONSULTING,Barcelona,veronica@hrconsulting.com,false,"HR consultant improving workplace culture",37,190,110,2022-04-09
+carlos_herrera,Carlos Herrera,TELECOMMUNICATIONS ENGINEERING,Barcelona,carlos@telecom.com,true,"Telecommunications engineer enhancing connectivity",38,230,120,2021-12-01
+lidia_jorge,Lidia Jorge,ENVIRONMENTAL SCIENCE,Barcelona,lidia@environmentalscience.com,false,"Environmental scientist advocating for sustainability",36,210,105,2022-02-23
+pilar_ortega,Pilar Ortega,REAL ESTATE INVESTMENT,Barcelona,pilar@realestateinvestment.com,true,"Real estate investor providing market analysis",41,300,150,2021-08-14
+elias_soto,Elias Soto,MARKETING CONSULTANT,Barcelona,elias@marketingconsultant.com,false,"Marketing consultant developing brand strategies",39,225,115,2022-05-30
+carmen_silvestre,Carmen Silvestre,TOURISM MANAGEMENT,Barcelona,carmen@tourismmanagement.com,true,"Tourism manager promoting local attractions",44,260,130,2021-03-09
+benjamin_lara,Benjamin Lara,LOGISTICS MANAGEMENT,Barcelona,benjamin@logisticsmanagement.com,false,"Logistics manager optimizing supply chains",38,215,100,2021-11-20
+marcos_sanchez,Marcos Sanchez,WEB DEVELOPMENT,Barcelona,marcos@webdevelopment.com,true,"Web developer creating responsive websites",36,270,135,2022-07-13
+julia_hernandez,Julia Hernandez,FASHION DESIGN,Barcelona,julia@fashiondesign.com,true,"Fashion designer creating sustainable clothing lines",37,230,125,2022-06-05
+roberto_blanes,Roberto Blanes,CLOUD SOLUTIONS,Barcelona,roberto@cloudsolutions.com,false,"Cloud solutions architect enabling digital transformation",42,280,135,2021-04-19
+sara_vega,Sara Vega,DIGITAL ANALYTICS,Barcelona,sara@digitalanalytics.com,true,"Digital analyst improving online performance metrics",39,260,140,2022-01-10
+carlos_moreno,Carlos Moreno,ECOLOGICAL CONSULTING,Barcelona,carlos@ecologicalconsulting.com,false,"Ecological consultant promoting green practices",41,220,110,2022-03-16
+ana_diaz,Ana Diaz,TOURISM MARKETING,Barcelona,ana@tourismmarketing.com,true,"Tourism marketing specialist enhancing travel experiences",38,250,120,2021-12-02
+maria_jimenez,Maria Jimenez,VIDEO PRODUCTION,Barcelona,maria@videoproduction.com,false,"Video producer creating impactful visual stories",36,210,100,2022-02-28
+emilio_perez,Emilio Perez,HEALTH AND WELLNESS,Barcelona,emilio@healthwellness.com,true,"Health and wellness coach improving client lifestyles",44,300,150,2021-11-11
+marcelo_caro,Marcelo Caro,IT INFRASTRUCTURE,Barcelona,marcelo@itinfra.com,false,"IT infrastructure manager ensuring operational efficiency",39,195,90,2021-10-25
+sofia_estrella,Sofia Estrella,SOCIAL MEDIA MARKETING,Barcelona,sofia@socialmediamarketing.com,true,"Social media marketer enhancing brand visibility",40,280,130,2022-05-19
+ivan_ponce,Ivan Ponce,MACHINE LEARNING,Barcelona,ivan@machinelearning.com,false,"Machine learning engineer developing predictive models",36,260,120,2021-08-09
+marta_castillo,Marta Castillo,CYBERSECURITY STRATEGY,Barcelona,marta@cybersecuritystrategy.com,true,"Cybersecurity strategist protecting sensitive data",41,270,135,2022-07-01
+pedro_felix,Pedro Felix,ROBOTICS ENGINEERING,Barcelona,pedro@roboticsengineering.com,false,"Robotics engineer innovating automation technologies",38,240,115,2021-09-15
+cristina_morales,Cristina Morales,HR MANAGEMENT,Barcelona,cristina@hrmanagement.com,true,"HR manager enhancing employee engagement",39,220,110,2021-06-21
+diego_reyes,Diego Reyes,GRAPHIC DESIGN,Barcelona,diego@graphicdesign.com,false,"Graphic designer creating compelling visual content",42,250,130,2021-12-10
+alba_santos,Alba Santos,FINANCIAL ANALYSIS,Barcelona,alba@financialanalysis.com,true,"Financial analyst providing data-driven insights",44,310,145,2021-03-05
+alejandro_munoz,Alejandro Munoz,MOBILE GAME DEVELOPMENT,Barcelona,alejandro@mobilegamedev.com,true,"Mobile game developer creating immersive experiences",36,220,115,2022-04-14
+rebecca_flores,Rebecca Flores,DATA SECURITY,Barcelona,rebecca@securitydata.com,false,"Data security analyst protecting sensitive information",40,230,120,2021-07-09
+nicolas_cabrera,Nicolas Cabrera,CONTENT MARKETING,Barcelona,nicolas@contentmarketing.com,true,"Content marketer focusing on audience engagement",39,250,135,2022-06-22
+teresa_quintero,Teresa Quintero,RESEARCH AND DEVELOPMENT,Barcelona,teresa@researchdevelopment.com,false,"R&D manager driving innovation in tech",42,180,95,2021-10-11
+rafaela_fernandez,Rafaela Fernandez,SALES STRATEGY,Barcelona,rafaela@salesstrategy.com,true,"Sales strategist enhancing customer acquisition",38,260,140,2022-01-23
+guillermo_gonzalez,Guillermo Gonzalez,SOCIAL IMPACT CONSULTING,Barcelona,guillermo@socialimpact.com,false,"Consultant focused on social impact initiatives",41,290,150,2021-03-30
+veronica_villalobos,Veronica Villalobos,TRANSLATION AND LOCALIZATION,Barcelona,veronica@translation.com,true,"Translation specialist localizing global content",37,215,100,2022-05-07
+mario_castaneda,Mario Castaneda,CLOUD ARCHITECTURE,Barcelona,mario@cloudarchitecture.com,false,"Cloud architect designing scalable solutions",44,300,145,2021-08-02
+patricia_rivera,Patricia Rivera,MARKETING RESEARCH,Barcelona,patricia@marketingresearch.com,true,"Marketing researcher providing consumer insights",39,280,130,2022-07-15
+luis_hernandez,Luis Hernandez,EVENT PLANNING,Barcelona,luis@eventplanning.com,false,"Event planner organizing memorable experiences",38,190,90,2021-11-28
+karen_martinez,Karen Martinez,VIDEO GAME DESIGN,Barcelona,karen@videogamedesign.com,true,"Game designer creating captivating gameplay",40,220,110,2022-02-09
+jaime_gutierrez,Jaime Gutierrez,CYBERSECURITY ENGINEERING,Barcelona,jaime@cybersecurityengineering.com,false,"Cybersecurity engineer developing secure systems",36,260,120,2021-09-05
+lucia_alvarez,Lucia Alvarez,HEALTHCARE MANAGEMENT,Barcelona,lucia@healthcaremanagement.com,true,"Healthcare manager optimizing patient care",43,240,125,2021-12-20
+alberto_nunez,Alberto Nunez,GRAPHIC NOVEL AUTHOR,Barcelona,alberto@graphicnovels.com,false,"Author creating compelling graphic novels",39,180,95,2021-04-27
+marcela_santos,Marcela Santos,FINANCIAL PLANNING,Barcelona,marcela@financialplanning.com,true,"Financial planner guiding clients to financial success",42,310,140,2021-10-19
