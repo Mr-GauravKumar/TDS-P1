@@ -1,1 +1,18 @@
+login,full_name,created_at,stargazers_count,watchers_count,language,has_projects,has_wiki,license_name
+johndoe,JohnDoe/repo1,2023-01-10,150,50,Python,true,true,MIT
+johndoe,JohnDoe/repo2,2022-05-15,200,80,JavaScript,false,false,Apache 2.0
+janedoe,JaneDoe/projectX,2023-02-20,80,20,HTML,true,true,GPL-3.0
+janedoe,JaneDoe/my-app,2023-04-01,120,45,Java,false,true,MIT
+alexsmith,AlexSmith/web-scraper,2022-09-11,300,100,Python,true,false,MIT
+alexsmith,AlexSmith/data-visualizer,2023-03-15,250,70,Ruby,true,true,Apache 2.0
+mariagonzalez,MariaGonzalez/photo-gallery,2023-06-01,50,10,PHP,false,false,MIT
+mariagonzalez,MariaGonzalez/todo-app,2023-07-21,150,40,JavaScript,true,true,GPL-3.0
+pablomartinez,PabloMartinez/ecommerce,2022-12-10,400,150,Python,true,true,MIT
+pablomartinez,PabloMartinez/api-project,2023-01-22,350,120,Ruby,false,false,Apache 2.0
+luciaortega,LuciaOrtega/blog-platform,2023-05-25,60,15,HTML,true,true,GPL-3.0
+luciaortega,LuciaOrtega/portfolio,2023-08-30,80,30,CSS,false,false,MIT
+francisco,Francisco/project-management-tool,2022-10-05,90,25,Java,true,false,Apache 2.0
+francisco,Francisco/chat-app,2023-02-10,200,60,JavaScript,true,true,GPL-3.0
+anacastro,AnaCastro/fitness-tracker,2023-03-12,150,40,Python,false,true,MIT
+anacastro,AnaCastro/weather-app,2023-06-18,130,35,Java,false,false,Apache 2.0
 
